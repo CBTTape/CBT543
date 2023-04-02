@@ -1,0 +1,32 @@
+2023-04-03 01:03:46.439531 - Initialized conversion of CBT543
+2023-04-03 01:03:46.650859 - Received CBT.V504.FILE543.PDS from FILE543.XMI 
+2023-04-03 01:03:46.653250 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:03:46.654590 - Found $$$INFO.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/$$$INFO
+2023-04-03 01:03:46.655653 - Found $$$NOTE1.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/$$$NOTE1
+2023-04-03 01:03:46.656647 - Found $$$NOTE2.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/$$$NOTE2
+2023-04-03 01:03:46.657602 - Found $$$NOTE3.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/$$$NOTE3
+2023-04-03 01:03:46.658504 - Found $$USAGE.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/$$USAGE
+2023-04-03 01:03:46.659402 - Found @FILE543.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/@FILE543
+2023-04-03 01:03:46.660473 - Found APF.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/APF
+2023-04-03 01:03:46.661516 - Found ASL.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/ASL
+2023-04-03 01:03:46.662477 - Found ASM.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/ASM
+2023-04-03 01:03:46.663428 - Found CHECKACT.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKACT
+2023-04-03 01:03:46.664430 - Found CHECKAPF.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKAPF
+2023-04-03 01:03:46.665521 - Found CHECKASL.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKASL
+2023-04-03 01:03:46.666723 - Found CHECKLNK.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKLNK
+2023-04-03 01:03:46.667856 - Found CHECKLPA.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKLPA
+2023-04-03 01:03:46.669053 - Found CHECKMAP.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKMAP
+2023-04-03 01:03:46.669983 - Found CHECKMNU.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKMNU
+2023-04-03 01:03:46.670890 - Found CHECKSRT.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKSRT
+2023-04-03 01:03:46.672033 - Found CHECKSTM.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKSTM
+2023-04-03 01:03:46.673115 - Found CHECKSTR.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKSTR
+2023-04-03 01:03:46.674062 - Found CHECKSYS.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKSYS
+2023-04-03 01:03:46.675118 - Found CHECKVER.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKVER
+2023-04-03 01:03:46.676348 - Found CHECKVIE.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/CHECKVIE
+2023-04-03 01:03:46.677500 - Found GETUADDR.txt (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/GETUADDR
+2023-04-03 01:03:46.678633 - Found LNK.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/LNK
+2023-04-03 01:03:46.679636 - Found LPA.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/LPA
+2023-04-03 01:03:46.680785 - Found MAP.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/MAP
+2023-04-03 01:03:46.681774 - Found STR.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/STR
+2023-04-03 01:03:46.682679 - Found SYS.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/SYS
+2023-04-03 01:03:46.683602 - Found VER.rexx (text/plain) in CBT.V504.FILE543.PDS, moved to PDS/VER
